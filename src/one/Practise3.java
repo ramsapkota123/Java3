@@ -24,6 +24,7 @@ public class Practise3 {
 		callOrGate();
 		disPlaySwitchCase();
 		
+		
 	}
 	static void arithmetic() {
 		System.out.println("Hello");
