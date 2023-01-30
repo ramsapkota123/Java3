@@ -24,6 +24,7 @@ public class Practise3 {
 		callOrGate();
 		disPlaySwitchCase();
 		
+		
 	}
 	static void arithmetic() {
 		System.out.println("Hello");
@@ -82,7 +83,9 @@ public class Practise3 {
 			System.out.println("saturday");
 			default:
 				System.out.println("no more day");
+				//Hi i am Ram
 		}
+		
 	}
 	
 	
