@@ -83,7 +83,11 @@ public class Practise3 {
 			System.out.println("saturday");
 			default:
 				System.out.println("no more day");
-				//Hi i am Ram
+				//hello I am ram sapkota
+				//originally from Nepal
+				//
+				// hi hello
+				
 		}
 		
 	}
