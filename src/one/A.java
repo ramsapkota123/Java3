@@ -13,6 +13,10 @@ public class A {
 	
 	public void walk() {
 		System.out.println("I am walking");
+		
+		
+		int a =6;
+		//hi
 	
 	}
 	
