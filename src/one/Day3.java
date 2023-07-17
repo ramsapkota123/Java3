@@ -35,6 +35,13 @@ public class Day3 {
 		System.out.println(2<2 && 5!=8);
 		System.out.println(12<=2 && 5!=8);
 		System.out.println(!(2==4));
+		System.out.println("it is with parameter and ne return type");
+		System.out.println("hello it is 10 am");
+		System.out.println("hello it is 11 am");
+		System.out.println("it is with parameter and ne return type");
+		System.out.println("hello it is 10 am");
+		System.out.println("hello it is 11 am");
+		
 	}
 
 
