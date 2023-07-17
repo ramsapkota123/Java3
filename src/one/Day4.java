@@ -39,6 +39,7 @@ public class Day4 {
 		} else {
 			System.out.println();
 		}
+		System.out.println("hello i am from new project");
 	}
 
 }
