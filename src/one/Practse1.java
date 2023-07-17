@@ -17,7 +17,30 @@ public class Practse1 {
 	}
 	//function with parameter but no return type
 	static void subtract(int a ,int b) {
+		int x=12;
+		int y=0;
 		System.out.println(a+b);
+		System.out.println(x+y);System.out.println(x+y);
+	    System.out.println(x-y);
+		System.out.println(x*y);
+		System.out.println(x/y);
+		System.out.println(x%y);
+		System.out.println("it is with parameter and ne return type");
+		System.out.println("hello it is 10 am");
+		System.out.println("hello it is 11 am");
+		System.out.println("hello it is 12 am");
+		System.out.println("hello it is 13 am");
+		System.out.println("hello it is 14 am");
+	    System.out.println(x-y);
+		System.out.println(x*y);
+		System.out.println(x/y);
+		System.out.println(x%y);
+		System.out.println("it is with parameter and ne return type");
+		System.out.println("hello it is 10 am");
+		System.out.println("hello it is 11 am");
+		System.out.println("hello it is 12 am");
+		System.out.println("hello it is 13 am");
+		System.out.println("hello it is 14 am");
 		
 	}
 

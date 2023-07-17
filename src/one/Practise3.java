@@ -87,6 +87,12 @@ public class Practise3 {
 				//originally from Nepal
 				//
 				// hi hello
+				System.out.println("it is with parameter and ne return type");
+				System.out.println("hello it is 10 am");
+				System.out.println("hello it is 11 am");
+				System.out.println("hello it is 12 am");
+				System.out.println("hello it is 13 am");
+				System.out.println("hello it is 14 am");
 				
 		}
 		
