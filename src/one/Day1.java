@@ -42,6 +42,7 @@ public class Day1 {
 		System.out.println(x*y);
 		System.out.println(x+y);
 		System.out.println(x+y);
+		System.out.println("It is a airthematic operations");
 		
 		
 		
@@ -54,6 +55,8 @@ public class Day1 {
 			System.out.println(x*y);
 			System.out.println(x/y);
 			System.out.println(x%y);
+			System.out.println("it is with parameter and ne return type");
+			System.out.println("hello it is 10 am");
 
 
 		}
